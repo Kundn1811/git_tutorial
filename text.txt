@@ -1,1 +1,3 @@
 hay this is kundan.
+i am learning git . how to use it 
+i learned how to add any  file in git
